@@ -1,6 +1,9 @@
 # ---------------------------------------------
 # GradeBook Analyzer
 # Name: Rashi MANGAL
+#Roll no: 2501730043
+#Course: B.Tech CSE AI/ML
+#Section: B
 # Date: 25-11-2025
 # ---------------------------------------------
 
@@ -162,4 +165,5 @@ while True:
     again = input("\nDo you want to run analysis again? (y/n): ")
     if again.lower() != "y":
         print("\nThank you for using GradeBook Analyzer!")
+
         break
